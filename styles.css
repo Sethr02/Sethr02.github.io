@@ -196,6 +196,12 @@ body {
     margin: 0;
 }
 
+.footer-gif {
+    width: 50px;
+    height: auto;
+    margin-top: 5px;
+}
+
 @keyframes slideUp {
     0% {
         top: 0;
